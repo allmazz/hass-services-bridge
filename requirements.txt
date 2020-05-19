@@ -1,0 +1,4 @@
+Beaker==1.11.0
+bottle==0.12.18
+cheroot==8.3.0
+requests==2.23.0
